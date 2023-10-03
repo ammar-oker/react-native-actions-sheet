@@ -14,7 +14,7 @@ docs/
 expo-example/
 #gifs
 gifs/
-index.tsx
+# index.tsx
 # src/
 README.md
 tsconfig.json
